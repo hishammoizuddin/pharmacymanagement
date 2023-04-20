@@ -6,6 +6,9 @@ The FirstCare Pharmacy Management System is a console-based C++ application desi
 
 ##  Features:
 
+<img width="541" alt="Screenshot 2023-04-20 at 5 27 14 AM" src="https://user-images.githubusercontent.com/78191578/233339415-6d411c96-bee0-4384-afe6-82080deef23b.png">
+
+
 ### Patient Record Management: 
 The application allows for easy addition, modification, and deletion of patient records, including patient number, name, diagnosis, prescribed medicine, consulting doctor, and contact number.
 
